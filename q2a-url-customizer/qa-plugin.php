@@ -5,8 +5,8 @@
 	Plugin URI: https://github.com/Towhidn/Q2A-URL-Customizer
 	Plugin Update Check URI:https://github.com/Towhidn/Q2A-URL-Customizer/master/qa-plugin.php
 	Plugin Description: Customizes Question URL
-	Plugin Version: 1.0
-	Plugin Date: 2014-04-14
+	Plugin Version: 1.1
+	Plugin Date: 2014-07-04
 	Plugin Author: QA-Themes.com
 	Plugin Author URI: http://QA-Themes.com
 	Plugin Minimum Question2Answer Version: 1.6
