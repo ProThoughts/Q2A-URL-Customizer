@@ -3,7 +3,7 @@
 /*
 	Plugin Name: URL Customizer
 	Plugin URI: https://github.com/Towhidn/Q2A-URL-Customizer
-	Plugin Update Check URI:https://github.com/Towhidn/Q2A-URL-Customizer/master/qa-plugin.php
+	Plugin Update Check URI: https://raw.githubusercontent.com/Towhidn/Q2A-URL-Customizer/master/q2a-url-customizer/qa-plugin.php
 	Plugin Description: Customizes Question URL
 	Plugin Version: 1.1
 	Plugin Date: 2014-07-04
