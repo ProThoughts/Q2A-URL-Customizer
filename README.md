@@ -5,6 +5,12 @@
 
 it can also capitalize words based on options that you choose. including capitalizing all words, first word's first letter, or all word's first letters.
 
+## Features
+* Removes specific words from question url to make it smaller
+* Comes with a list of english words which have little SEO benefit
+* Makes URL shorter and richer in keywords
+* Can capitalize URLs(first letter, all word's first letters, or all letters in url)
+
 ## Installation
 1. Download the plugins and extract "q2a-url-customizer" directory.
 2. Upload it to your Q2A's plugin directory (`qa-plugins/q2a-url-customizer`).
@@ -12,8 +18,13 @@ it can also capitalize words based on options that you choose. including capital
 
 Plugin comes with a default list of English words, you can easily add or remove any word from the list.
 
+### Compatibilty
+This plugin was checked with Q2A 1.7 and Q2A 1.6 and should work with older versions of question2answer too.
+___
 ## Author
-Q2A URL Customizer plugin is developed by [Towhid](http://TowhidN.com "Towhid Nategheian"), from [Q2A Themes](http://QA-Themes.com "Question2Answer Themes and Plugins")
+Q2A URL Customizer plugin is developed by [Towhid](http://TowhidN.com "Web Developer"), from [QA-Themes.com](http://QA-Themes.com "Question2Answer Themes and Plugins"). 
+
+we create free & open source Question2Answer Themes and plugins and offer professional Developement and Design services for Question2Answer platform. checkout our [free Question2Answer Themes](http://qa-themes.com/themes "Question2Answer Themes") and [Plugins](http://qa-themes.com/plugins "Free Question2Answer Add-ons").
 
 ### Copyright
 this plugin and all it's source code is [Copylefted](http://en.wikipedia.org/wiki/Copyleft).
@@ -23,4 +34,4 @@ This product is a free and is published without any warranties. if you find any 
 
 ### About Q2A
 
-**[Question2Answer](http://qa-themes.com/question2answer "Q2A Features")** is a free and open source PHP script for creating online Question & Answer communities.
+**[Question2Answer](http://qa-themes.com/question2answer "Q2A Features")** is a free and open source PHP script for creating online Question & Answer communities.For more information about Question2Answer visit it's official site at [question2answer.org](http://www.question2answer.org/)
